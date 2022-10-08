@@ -1,0 +1,14 @@
+#####################################################################
+##################### This is the gitignore for  ####################
+##################### the whole checkpoint project  #################
+#####################################################################
+
+# Checkpoint
+fingerprints.txt
+
+# VS Code
+.vscode
+checkpoint_automation.code-workspace
+
+# Virtual Environment
+venv/
